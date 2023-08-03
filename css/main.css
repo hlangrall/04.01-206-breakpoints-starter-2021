@@ -1,0 +1,15 @@
+/* ----------- For screens 768px and larger ----------- */
+/******** TABLET *******/
+@media (min-width: 768px) {
+  body {
+    background: turquoise;
+  }
+}
+
+/* ----------- For screens 1200px wide and larger----------- */
+/******** DESKTOP ********/
+@media (min-width: 1200px) {
+  body {
+    background: rgb(9, 54, 55);
+  }
+}
